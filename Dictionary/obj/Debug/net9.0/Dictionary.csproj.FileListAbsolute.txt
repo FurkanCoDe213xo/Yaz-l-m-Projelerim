@@ -1,0 +1,15 @@
+E:\Yazılım Projelerim\Dictionary\bin\Debug\net9.0\Dictionary.exe
+E:\Yazılım Projelerim\Dictionary\bin\Debug\net9.0\Dictionary.deps.json
+E:\Yazılım Projelerim\Dictionary\bin\Debug\net9.0\Dictionary.runtimeconfig.json
+E:\Yazılım Projelerim\Dictionary\bin\Debug\net9.0\Dictionary.dll
+E:\Yazılım Projelerim\Dictionary\bin\Debug\net9.0\Dictionary.pdb
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.AssemblyInfo.cs
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.sourcelink.json
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.dll
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\refint\Dictionary.dll
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.pdb
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\Dictionary.genruntimeconfig.cache
+E:\Yazılım Projelerim\Dictionary\obj\Debug\net9.0\ref\Dictionary.dll
