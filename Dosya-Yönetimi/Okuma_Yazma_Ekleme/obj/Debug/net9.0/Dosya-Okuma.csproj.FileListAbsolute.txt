@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Dosya-Okuma\bin\Debug\net9.0\Dosya-Okuma.exe
+D:\Projeler\Genel\Dosya-Okuma\bin\Debug\net9.0\Dosya-Okuma.deps.json
+D:\Projeler\Genel\Dosya-Okuma\bin\Debug\net9.0\Dosya-Okuma.runtimeconfig.json
+D:\Projeler\Genel\Dosya-Okuma\bin\Debug\net9.0\Dosya-Okuma.dll
+D:\Projeler\Genel\Dosya-Okuma\bin\Debug\net9.0\Dosya-Okuma.pdb
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.AssemblyInfo.cs
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.dll
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\refint\Dosya-Okuma.dll
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.pdb
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\Dosya-Okuma.genruntimeconfig.cache
+D:\Projeler\Genel\Dosya-Okuma\obj\Debug\net9.0\ref\Dosya-Okuma.dll

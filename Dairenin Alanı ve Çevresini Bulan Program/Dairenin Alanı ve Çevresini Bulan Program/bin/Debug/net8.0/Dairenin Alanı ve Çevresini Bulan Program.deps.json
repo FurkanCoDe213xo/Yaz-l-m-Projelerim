@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dairenin Alanı ve Çevresini Bulan Program/1.0.0": {
+        "runtime": {
+          "Dairenin Alanı ve Çevresini Bulan Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dairenin Alanı ve Çevresini Bulan Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

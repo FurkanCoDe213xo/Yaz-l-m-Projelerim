@@ -1,0 +1,14 @@
+D:\Projeler\Genel\String_Uygulamaları\bin\Release\net8.0\String_Uygulamaları.exe
+D:\Projeler\Genel\String_Uygulamaları\bin\Release\net8.0\String_Uygulamaları.deps.json
+D:\Projeler\Genel\String_Uygulamaları\bin\Release\net8.0\String_Uygulamaları.runtimeconfig.json
+D:\Projeler\Genel\String_Uygulamaları\bin\Release\net8.0\String_Uygulamaları.dll
+D:\Projeler\Genel\String_Uygulamaları\bin\Release\net8.0\String_Uygulamaları.pdb
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.AssemblyInfoInputs.cache
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.AssemblyInfo.cs
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.dll
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\refint\String_Uygulamaları.dll
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.pdb
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\String_Uygulamaları.genruntimeconfig.cache
+D:\Projeler\Genel\String_Uygulamaları\obj\Release\net8.0\ref\String_Uygulamaları.dll

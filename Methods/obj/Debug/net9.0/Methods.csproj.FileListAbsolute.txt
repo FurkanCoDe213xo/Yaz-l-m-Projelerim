@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\Methods\bin\Debug\net9.0\Methods.exe
+E:\Yazılım Projelerim\Methods\bin\Debug\net9.0\Methods.deps.json
+E:\Yazılım Projelerim\Methods\bin\Debug\net9.0\Methods.runtimeconfig.json
+E:\Yazılım Projelerim\Methods\bin\Debug\net9.0\Methods.dll
+E:\Yazılım Projelerim\Methods\bin\Debug\net9.0\Methods.pdb
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.AssemblyInfo.cs
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.dll
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\refint\Methods.dll
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.pdb
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\Methods.genruntimeconfig.cache
+E:\Yazılım Projelerim\Methods\obj\Debug\net9.0\ref\Methods.dll

@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\bin\Debug\net8.0\Mantıksal Veri Tipi.exe
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\bin\Debug\net8.0\Mantıksal Veri Tipi.deps.json
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\bin\Debug\net8.0\Mantıksal Veri Tipi.runtimeconfig.json
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\bin\Debug\net8.0\Mantıksal Veri Tipi.dll
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\bin\Debug\net8.0\Mantıksal Veri Tipi.pdb
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.dll
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\refint\Mantıksal Veri Tipi.dll
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.pdb
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\Mantıksal Veri Tipi.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Mantıksal Veri Tipi\Mantıksal Veri Tipi\obj\Debug\net8.0\ref\Mantıksal Veri Tipi.dll

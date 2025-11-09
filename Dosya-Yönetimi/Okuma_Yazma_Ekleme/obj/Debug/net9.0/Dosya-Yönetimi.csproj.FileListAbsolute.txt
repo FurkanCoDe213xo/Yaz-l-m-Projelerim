@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Dosya-Yönetimi\bin\Debug\net9.0\Dosya-Yönetimi.exe
+D:\Projeler\Genel\Dosya-Yönetimi\bin\Debug\net9.0\Dosya-Yönetimi.deps.json
+D:\Projeler\Genel\Dosya-Yönetimi\bin\Debug\net9.0\Dosya-Yönetimi.runtimeconfig.json
+D:\Projeler\Genel\Dosya-Yönetimi\bin\Debug\net9.0\Dosya-Yönetimi.dll
+D:\Projeler\Genel\Dosya-Yönetimi\bin\Debug\net9.0\Dosya-Yönetimi.pdb
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.AssemblyInfo.cs
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.dll
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\refint\Dosya-Yönetimi.dll
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.pdb
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\Dosya-Yönetimi.genruntimeconfig.cache
+D:\Projeler\Genel\Dosya-Yönetimi\obj\Debug\net9.0\ref\Dosya-Yönetimi.dll

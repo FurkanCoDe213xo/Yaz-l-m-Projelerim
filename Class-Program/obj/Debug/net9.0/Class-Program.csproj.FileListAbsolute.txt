@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\Class-Program\bin\Debug\net9.0\Class-Program.exe
+E:\Yazılım Projelerim\Class-Program\bin\Debug\net9.0\Class-Program.deps.json
+E:\Yazılım Projelerim\Class-Program\bin\Debug\net9.0\Class-Program.runtimeconfig.json
+E:\Yazılım Projelerim\Class-Program\bin\Debug\net9.0\Class-Program.dll
+E:\Yazılım Projelerim\Class-Program\bin\Debug\net9.0\Class-Program.pdb
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.AssemblyInfo.cs
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.dll
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\refint\Class-Program.dll
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.pdb
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\Class-Program.genruntimeconfig.cache
+E:\Yazılım Projelerim\Class-Program\obj\Debug\net9.0\ref\Class-Program.dll

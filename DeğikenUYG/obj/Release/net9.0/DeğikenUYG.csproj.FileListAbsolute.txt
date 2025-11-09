@@ -1,0 +1,4 @@
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net9.0\DeğikenUYG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net9.0\DeğikenUYG.AssemblyInfoInputs.cache
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net9.0\DeğikenUYG.AssemblyInfo.cs
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net9.0\DeğikenUYG.csproj.CoreCompileInputs.cache

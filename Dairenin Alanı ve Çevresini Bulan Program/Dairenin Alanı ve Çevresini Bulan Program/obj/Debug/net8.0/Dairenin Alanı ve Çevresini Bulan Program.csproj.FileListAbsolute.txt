@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\bin\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.exe
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\bin\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.deps.json
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\bin\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.runtimeconfig.json
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\bin\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.dll
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\bin\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.pdb
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.dll
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\refint\Dairenin Alanı ve Çevresini Bulan Program.dll
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.pdb
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\Dairenin Alanı ve Çevresini Bulan Program.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Dairenin Alanı ve Çevresini Bulan Program\Dairenin Alanı ve Çevresini Bulan Program\obj\Debug\net8.0\ref\Dairenin Alanı ve Çevresini Bulan Program.dll

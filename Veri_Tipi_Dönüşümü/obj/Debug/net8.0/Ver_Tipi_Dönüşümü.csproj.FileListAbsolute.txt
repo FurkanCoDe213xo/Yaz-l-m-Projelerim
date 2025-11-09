@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\bin\Debug\net8.0\Ver_Tipi_Dönüşümü.exe
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\bin\Debug\net8.0\Ver_Tipi_Dönüşümü.deps.json
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\bin\Debug\net8.0\Ver_Tipi_Dönüşümü.runtimeconfig.json
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\bin\Debug\net8.0\Ver_Tipi_Dönüşümü.dll
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\bin\Debug\net8.0\Ver_Tipi_Dönüşümü.pdb
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.AssemblyInfo.cs
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.dll
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\refint\Ver_Tipi_Dönüşümü.dll
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.pdb
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\Ver_Tipi_Dönüşümü.genruntimeconfig.cache
+D:\Projeler\Genel\Veri_Tipi_Dönüşümü\obj\Debug\net8.0\ref\Ver_Tipi_Dönüşümü.dll

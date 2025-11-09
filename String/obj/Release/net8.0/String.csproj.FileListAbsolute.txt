@@ -1,0 +1,14 @@
+D:\Projeler\Genel\String\bin\Release\net8.0\String.exe
+D:\Projeler\Genel\String\bin\Release\net8.0\String.deps.json
+D:\Projeler\Genel\String\bin\Release\net8.0\String.runtimeconfig.json
+D:\Projeler\Genel\String\bin\Release\net8.0\String.dll
+D:\Projeler\Genel\String\bin\Release\net8.0\String.pdb
+D:\Projeler\Genel\String\obj\Release\net8.0\String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\String\obj\Release\net8.0\String.AssemblyInfoInputs.cache
+D:\Projeler\Genel\String\obj\Release\net8.0\String.AssemblyInfo.cs
+D:\Projeler\Genel\String\obj\Release\net8.0\String.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\String\obj\Release\net8.0\String.dll
+D:\Projeler\Genel\String\obj\Release\net8.0\refint\String.dll
+D:\Projeler\Genel\String\obj\Release\net8.0\String.pdb
+D:\Projeler\Genel\String\obj\Release\net8.0\String.genruntimeconfig.cache
+D:\Projeler\Genel\String\obj\Release\net8.0\ref\String.dll

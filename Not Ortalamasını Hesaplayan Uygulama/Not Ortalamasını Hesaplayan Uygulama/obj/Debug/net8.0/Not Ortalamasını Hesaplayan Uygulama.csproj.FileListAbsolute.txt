@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\bin\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.exe
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\bin\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.deps.json
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\bin\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.runtimeconfig.json
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\bin\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.dll
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\bin\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.pdb
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.dll
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\refint\Not Ortalamasını Hesaplayan Uygulama.dll
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.pdb
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\Not Ortalamasını Hesaplayan Uygulama.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Not Ortalamasını Hesaplayan Uygulama\Not Ortalamasını Hesaplayan Uygulama\obj\Debug\net8.0\ref\Not Ortalamasını Hesaplayan Uygulama.dll

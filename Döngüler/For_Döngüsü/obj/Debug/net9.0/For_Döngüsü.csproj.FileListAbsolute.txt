@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Döngüler\For_Döngüsü\bin\Debug\net9.0\For_Döngüsü.exe
+D:\Projeler\Genel\Döngüler\For_Döngüsü\bin\Debug\net9.0\For_Döngüsü.deps.json
+D:\Projeler\Genel\Döngüler\For_Döngüsü\bin\Debug\net9.0\For_Döngüsü.runtimeconfig.json
+D:\Projeler\Genel\Döngüler\For_Döngüsü\bin\Debug\net9.0\For_Döngüsü.dll
+D:\Projeler\Genel\Döngüler\For_Döngüsü\bin\Debug\net9.0\For_Döngüsü.pdb
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.AssemblyInfo.cs
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.dll
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\refint\For_Döngüsü.dll
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.pdb
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\For_Döngüsü.genruntimeconfig.cache
+D:\Projeler\Genel\Döngüler\For_Döngüsü\obj\Debug\net9.0\ref\For_Döngüsü.dll

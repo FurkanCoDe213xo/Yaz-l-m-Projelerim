@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Referans\bin\Debug\net9.0\Referans.exe
+D:\Projeler\Genel\Referans\bin\Debug\net9.0\Referans.deps.json
+D:\Projeler\Genel\Referans\bin\Debug\net9.0\Referans.runtimeconfig.json
+D:\Projeler\Genel\Referans\bin\Debug\net9.0\Referans.dll
+D:\Projeler\Genel\Referans\bin\Debug\net9.0\Referans.pdb
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.AssemblyInfo.cs
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.dll
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\refint\Referans.dll
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.pdb
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\Referans.genruntimeconfig.cache
+D:\Projeler\Genel\Referans\obj\Debug\net9.0\ref\Referans.dll

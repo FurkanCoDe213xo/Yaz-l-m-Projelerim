@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\MethodsUYG\bin\Debug\net9.0\MethodsUYG.exe
+E:\Yazılım Projelerim\MethodsUYG\bin\Debug\net9.0\MethodsUYG.deps.json
+E:\Yazılım Projelerim\MethodsUYG\bin\Debug\net9.0\MethodsUYG.runtimeconfig.json
+E:\Yazılım Projelerim\MethodsUYG\bin\Debug\net9.0\MethodsUYG.dll
+E:\Yazılım Projelerim\MethodsUYG\bin\Debug\net9.0\MethodsUYG.pdb
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.AssemblyInfo.cs
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.dll
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\refint\MethodsUYG.dll
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.pdb
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\MethodsUYG.genruntimeconfig.cache
+E:\Yazılım Projelerim\MethodsUYG\obj\Debug\net9.0\ref\MethodsUYG.dll

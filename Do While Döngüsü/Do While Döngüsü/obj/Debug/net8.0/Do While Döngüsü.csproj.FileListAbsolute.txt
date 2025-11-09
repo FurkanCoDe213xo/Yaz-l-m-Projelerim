@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\bin\Debug\net8.0\Do While Döngüsü.exe
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\bin\Debug\net8.0\Do While Döngüsü.deps.json
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\bin\Debug\net8.0\Do While Döngüsü.runtimeconfig.json
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\bin\Debug\net8.0\Do While Döngüsü.dll
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\bin\Debug\net8.0\Do While Döngüsü.pdb
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.dll
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\refint\Do While Döngüsü.dll
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.pdb
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\Do While Döngüsü.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Do While Döngüsü\Do While Döngüsü\obj\Debug\net8.0\ref\Do While Döngüsü.dll

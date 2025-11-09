@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\bin\Debug\net8.0\Kullanıcıdan Veri Almak.exe
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\bin\Debug\net8.0\Kullanıcıdan Veri Almak.deps.json
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\bin\Debug\net8.0\Kullanıcıdan Veri Almak.runtimeconfig.json
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\bin\Debug\net8.0\Kullanıcıdan Veri Almak.dll
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\bin\Debug\net8.0\Kullanıcıdan Veri Almak.pdb
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.dll
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\refint\Kullanıcıdan Veri Almak.dll
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.pdb
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\Kullanıcıdan Veri Almak.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Kullanıcıdan Veri Almak\Kullanıcıdan Veri Almak\obj\Debug\net8.0\ref\Kullanıcıdan Veri Almak.dll

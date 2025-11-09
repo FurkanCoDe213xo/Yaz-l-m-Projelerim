@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\bin\Debug\net8.0\Return and Void.exe
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\bin\Debug\net8.0\Return and Void.deps.json
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\bin\Debug\net8.0\Return and Void.runtimeconfig.json
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\bin\Debug\net8.0\Return and Void.dll
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\bin\Debug\net8.0\Return and Void.pdb
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.dll
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\refint\Return and Void.dll
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.pdb
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\Return and Void.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Return and Void\Return and Void\obj\Debug\net8.0\ref\Return and Void.dll

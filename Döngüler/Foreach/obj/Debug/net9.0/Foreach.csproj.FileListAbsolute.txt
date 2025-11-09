@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Döngüler\Foreach\bin\Debug\net9.0\Foreach.exe
+D:\Projeler\Genel\Döngüler\Foreach\bin\Debug\net9.0\Foreach.deps.json
+D:\Projeler\Genel\Döngüler\Foreach\bin\Debug\net9.0\Foreach.runtimeconfig.json
+D:\Projeler\Genel\Döngüler\Foreach\bin\Debug\net9.0\Foreach.dll
+D:\Projeler\Genel\Döngüler\Foreach\bin\Debug\net9.0\Foreach.pdb
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.AssemblyInfo.cs
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.dll
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\refint\Foreach.dll
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.pdb
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\Foreach.genruntimeconfig.cache
+D:\Projeler\Genel\Döngüler\Foreach\obj\Debug\net9.0\ref\Foreach.dll

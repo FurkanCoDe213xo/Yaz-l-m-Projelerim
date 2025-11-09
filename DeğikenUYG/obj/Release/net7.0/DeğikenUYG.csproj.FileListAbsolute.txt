@@ -1,0 +1,14 @@
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.AssemblyInfoInputs.cache
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.AssemblyInfo.cs
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\DeğikenUYG\bin\Release\net7.0\DeğikenUYG.exe
+D:\Projeler\Genel\DeğikenUYG\bin\Release\net7.0\DeğikenUYG.deps.json
+D:\Projeler\Genel\DeğikenUYG\bin\Release\net7.0\DeğikenUYG.runtimeconfig.json
+D:\Projeler\Genel\DeğikenUYG\bin\Release\net7.0\DeğikenUYG.dll
+D:\Projeler\Genel\DeğikenUYG\bin\Release\net7.0\DeğikenUYG.pdb
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.dll
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\refint\DeğikenUYG.dll
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.pdb
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\DeğikenUYG.genruntimeconfig.cache
+D:\Projeler\Genel\DeğikenUYG\obj\Release\net7.0\ref\DeğikenUYG.dll

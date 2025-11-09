@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Değişken\bin\Release\net9.0\Değişken.exe
+D:\Projeler\Genel\Değişken\bin\Release\net9.0\Değişken.deps.json
+D:\Projeler\Genel\Değişken\bin\Release\net9.0\Değişken.runtimeconfig.json
+D:\Projeler\Genel\Değişken\bin\Release\net9.0\Değişken.dll
+D:\Projeler\Genel\Değişken\bin\Release\net9.0\Değişken.pdb
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.AssemblyInfo.cs
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.dll
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\refint\Değişken.dll
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.pdb
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\Değişken.genruntimeconfig.cache
+D:\Projeler\Genel\Değişken\obj\Release\net9.0\ref\Değişken.dll

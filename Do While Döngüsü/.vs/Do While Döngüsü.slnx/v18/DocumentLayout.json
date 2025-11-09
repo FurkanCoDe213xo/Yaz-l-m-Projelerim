@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m_ate\\source\\repos\\Do While D\u00F6ng\u00FCs\u00FC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95217314-7E3E-4987-B634-42FE933ED4C7}|Do While D\u00F6ng\u00FCs\u00FC\\Do While D\u00F6ng\u00FCs\u00FC.csproj|c:\\users\\m_ate\\source\\repos\\do while d\u00F6ng\u00FCs\u00FC\\do while d\u00F6ng\u00FCs\u00FC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95217314-7E3E-4987-B634-42FE933ED4C7}|Do While D\u00F6ng\u00FCs\u00FC\\Do While D\u00F6ng\u00FCs\u00FC.csproj|solutionrelative:do while d\u00F6ng\u00FCs\u00FC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m_ate\\source\\repos\\Do While D\u00F6ng\u00FCs\u00FC\\Do While D\u00F6ng\u00FCs\u00FC\\Program.cs",
+              "RelativeDocumentMoniker": "Do While D\u00F6ng\u00FCs\u00FC\\Program.cs",
+              "ToolTip": "C:\\Users\\m_ate\\source\\repos\\Do While D\u00F6ng\u00FCs\u00FC\\Do While D\u00F6ng\u00FCs\u00FC\\Program.cs",
+              "RelativeToolTip": "Do While D\u00F6ng\u00FCs\u00FC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:23:52.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

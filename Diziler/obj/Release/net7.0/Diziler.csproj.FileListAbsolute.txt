@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Diziler\bin\Release\net7.0\Diziler.exe
+D:\Projeler\Genel\Diziler\bin\Release\net7.0\Diziler.deps.json
+D:\Projeler\Genel\Diziler\bin\Release\net7.0\Diziler.runtimeconfig.json
+D:\Projeler\Genel\Diziler\bin\Release\net7.0\Diziler.dll
+D:\Projeler\Genel\Diziler\bin\Release\net7.0\Diziler.pdb
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.AssemblyInfo.cs
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.dll
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\refint\Diziler.dll
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.pdb
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\Diziler.genruntimeconfig.cache
+D:\Projeler\Genel\Diziler\obj\Release\net7.0\ref\Diziler.dll

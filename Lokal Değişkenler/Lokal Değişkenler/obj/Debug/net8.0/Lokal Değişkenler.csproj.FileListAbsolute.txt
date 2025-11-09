@@ -1,0 +1,4 @@
+C:\Users\m_ate\source\repos\Lokal Değişkenler\Lokal Değişkenler\obj\Debug\net8.0\Lokal Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Lokal Değişkenler\Lokal Değişkenler\obj\Debug\net8.0\Lokal Değişkenler.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Lokal Değişkenler\Lokal Değişkenler\obj\Debug\net8.0\Lokal Değişkenler.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Lokal Değişkenler\Lokal Değişkenler\obj\Debug\net8.0\Lokal Değişkenler.csproj.CoreCompileInputs.cache

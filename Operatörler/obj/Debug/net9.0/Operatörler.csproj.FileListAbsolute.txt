@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Operatörler\bin\Debug\net9.0\Operatörler.exe
+D:\Projeler\Genel\Operatörler\bin\Debug\net9.0\Operatörler.deps.json
+D:\Projeler\Genel\Operatörler\bin\Debug\net9.0\Operatörler.runtimeconfig.json
+D:\Projeler\Genel\Operatörler\bin\Debug\net9.0\Operatörler.dll
+D:\Projeler\Genel\Operatörler\bin\Debug\net9.0\Operatörler.pdb
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.AssemblyInfo.cs
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.dll
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\refint\Operatörler.dll
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.pdb
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\Operatörler.genruntimeconfig.cache
+D:\Projeler\Genel\Operatörler\obj\Debug\net9.0\ref\Operatörler.dll

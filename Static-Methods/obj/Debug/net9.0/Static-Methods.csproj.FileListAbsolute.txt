@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\Static-Methods\bin\Debug\net9.0\Static-Methods.exe
+E:\Yazılım Projelerim\Static-Methods\bin\Debug\net9.0\Static-Methods.deps.json
+E:\Yazılım Projelerim\Static-Methods\bin\Debug\net9.0\Static-Methods.runtimeconfig.json
+E:\Yazılım Projelerim\Static-Methods\bin\Debug\net9.0\Static-Methods.dll
+E:\Yazılım Projelerim\Static-Methods\bin\Debug\net9.0\Static-Methods.pdb
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.AssemblyInfo.cs
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.dll
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\refint\Static-Methods.dll
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.pdb
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\Static-Methods.genruntimeconfig.cache
+E:\Yazılım Projelerim\Static-Methods\obj\Debug\net9.0\ref\Static-Methods.dll

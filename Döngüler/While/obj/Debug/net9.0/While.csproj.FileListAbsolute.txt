@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Döngüler\While\bin\Debug\net9.0\While.exe
+D:\Projeler\Genel\Döngüler\While\bin\Debug\net9.0\While.deps.json
+D:\Projeler\Genel\Döngüler\While\bin\Debug\net9.0\While.runtimeconfig.json
+D:\Projeler\Genel\Döngüler\While\bin\Debug\net9.0\While.dll
+D:\Projeler\Genel\Döngüler\While\bin\Debug\net9.0\While.pdb
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.AssemblyInfo.cs
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.dll
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\refint\While.dll
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.pdb
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\While.genruntimeconfig.cache
+D:\Projeler\Genel\Döngüler\While\obj\Debug\net9.0\ref\While.dll

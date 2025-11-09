@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m_ate\\source\\repos\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5E41F0D-23AB-4964-A0D3-A42C3B7573B8}|Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program.csproj|c:\\users\\m_ate\\source\\repos\\dairenin alan\u0131 ve \u00E7evresini bulan program\\dairenin alan\u0131 ve \u00E7evresini bulan program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5E41F0D-23AB-4964-A0D3-A42C3B7573B8}|Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program.csproj|solutionrelative:dairenin alan\u0131 ve \u00E7evresini bulan program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m_ate\\source\\repos\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Program.cs",
+              "RelativeDocumentMoniker": "Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Program.cs",
+              "ToolTip": "C:\\Users\\m_ate\\source\\repos\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Program.cs*",
+              "RelativeToolTip": "Dairenin Alan\u0131 ve \u00C7evresini Bulan Program\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T17:35:50.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

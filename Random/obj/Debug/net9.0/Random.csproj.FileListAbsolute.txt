@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Random\bin\Debug\net9.0\Random.exe
+D:\Projeler\Genel\Random\bin\Debug\net9.0\Random.deps.json
+D:\Projeler\Genel\Random\bin\Debug\net9.0\Random.runtimeconfig.json
+D:\Projeler\Genel\Random\bin\Debug\net9.0\Random.dll
+D:\Projeler\Genel\Random\bin\Debug\net9.0\Random.pdb
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.AssemblyInfo.cs
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.dll
+D:\Projeler\Genel\Random\obj\Debug\net9.0\refint\Random.dll
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.pdb
+D:\Projeler\Genel\Random\obj\Debug\net9.0\Random.genruntimeconfig.cache
+D:\Projeler\Genel\Random\obj\Debug\net9.0\ref\Random.dll

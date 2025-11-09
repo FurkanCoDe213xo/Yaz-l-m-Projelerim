@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Döngüler\DoWhile\bin\Debug\net9.0\DoWhile.exe
+D:\Projeler\Genel\Döngüler\DoWhile\bin\Debug\net9.0\DoWhile.deps.json
+D:\Projeler\Genel\Döngüler\DoWhile\bin\Debug\net9.0\DoWhile.runtimeconfig.json
+D:\Projeler\Genel\Döngüler\DoWhile\bin\Debug\net9.0\DoWhile.dll
+D:\Projeler\Genel\Döngüler\DoWhile\bin\Debug\net9.0\DoWhile.pdb
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.AssemblyInfo.cs
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.dll
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\refint\DoWhile.dll
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.pdb
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\DoWhile.genruntimeconfig.cache
+D:\Projeler\Genel\Döngüler\DoWhile\obj\Debug\net9.0\ref\DoWhile.dll

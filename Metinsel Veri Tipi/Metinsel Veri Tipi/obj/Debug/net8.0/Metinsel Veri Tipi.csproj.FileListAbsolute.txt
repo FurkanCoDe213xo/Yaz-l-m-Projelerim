@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\bin\Debug\net8.0\Metinsel Veri Tipi.exe
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\bin\Debug\net8.0\Metinsel Veri Tipi.deps.json
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\bin\Debug\net8.0\Metinsel Veri Tipi.runtimeconfig.json
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\bin\Debug\net8.0\Metinsel Veri Tipi.dll
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\bin\Debug\net8.0\Metinsel Veri Tipi.pdb
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.dll
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\refint\Metinsel Veri Tipi.dll
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.pdb
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\Metinsel Veri Tipi.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Metinsel Veri Tipi\Metinsel Veri Tipi\obj\Debug\net8.0\ref\Metinsel Veri Tipi.dll

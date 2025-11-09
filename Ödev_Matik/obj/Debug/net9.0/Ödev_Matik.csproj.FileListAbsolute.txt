@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Ödev_Matik\bin\Debug\net9.0\Ödev_Matik.exe
+D:\Projeler\Genel\Ödev_Matik\bin\Debug\net9.0\Ödev_Matik.deps.json
+D:\Projeler\Genel\Ödev_Matik\bin\Debug\net9.0\Ödev_Matik.runtimeconfig.json
+D:\Projeler\Genel\Ödev_Matik\bin\Debug\net9.0\Ödev_Matik.dll
+D:\Projeler\Genel\Ödev_Matik\bin\Debug\net9.0\Ödev_Matik.pdb
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.AssemblyInfo.cs
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.dll
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\refint\Ödev_Matik.dll
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.pdb
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\Ödev_Matik.genruntimeconfig.cache
+D:\Projeler\Genel\Ödev_Matik\obj\Debug\net9.0\ref\Ödev_Matik.dll

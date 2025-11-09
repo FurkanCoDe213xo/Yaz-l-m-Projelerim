@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "For_Döngüsü/1.0.0": {
+        "runtime": {
+          "For_Döngüsü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For_Döngüsü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

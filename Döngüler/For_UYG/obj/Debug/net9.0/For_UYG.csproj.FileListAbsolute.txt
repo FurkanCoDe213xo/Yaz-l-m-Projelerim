@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Döngüler\For_UYG\bin\Debug\net9.0\For_UYG.exe
+D:\Projeler\Genel\Döngüler\For_UYG\bin\Debug\net9.0\For_UYG.deps.json
+D:\Projeler\Genel\Döngüler\For_UYG\bin\Debug\net9.0\For_UYG.runtimeconfig.json
+D:\Projeler\Genel\Döngüler\For_UYG\bin\Debug\net9.0\For_UYG.dll
+D:\Projeler\Genel\Döngüler\For_UYG\bin\Debug\net9.0\For_UYG.pdb
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.AssemblyInfo.cs
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.dll
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\refint\For_UYG.dll
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.pdb
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\For_UYG.genruntimeconfig.cache
+D:\Projeler\Genel\Döngüler\For_UYG\obj\Debug\net9.0\ref\For_UYG.dll

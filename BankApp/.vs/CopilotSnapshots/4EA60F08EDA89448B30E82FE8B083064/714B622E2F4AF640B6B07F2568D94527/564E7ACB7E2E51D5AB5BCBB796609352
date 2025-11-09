@@ -1,0 +1,15 @@
+﻿namespace BankApp;
+
+using ClassLibrary1;
+
+class Program
+{
+    static void Main()
+    {
+        var account = new BankAccount("Ali Veli", 1000);
+        account.Deposit(500);
+        account.Withdraw(200);
+        Console.WriteLine($"Hesap Sahibi: {account.AccountHolder}");
+        Console.WriteLine($"Bakiye: {account.Balance}");
+    }
+}

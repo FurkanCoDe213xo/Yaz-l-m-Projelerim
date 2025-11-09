@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\Collections\bin\Debug\net9.0\Collections.exe
+E:\Yazılım Projelerim\Collections\bin\Debug\net9.0\Collections.deps.json
+E:\Yazılım Projelerim\Collections\bin\Debug\net9.0\Collections.runtimeconfig.json
+E:\Yazılım Projelerim\Collections\bin\Debug\net9.0\Collections.dll
+E:\Yazılım Projelerim\Collections\bin\Debug\net9.0\Collections.pdb
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.AssemblyInfo.cs
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.dll
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\refint\Collections.dll
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.pdb
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\Collections.genruntimeconfig.cache
+E:\Yazılım Projelerim\Collections\obj\Debug\net9.0\ref\Collections.dll

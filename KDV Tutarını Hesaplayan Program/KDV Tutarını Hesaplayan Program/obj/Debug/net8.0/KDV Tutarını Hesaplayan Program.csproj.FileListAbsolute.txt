@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\bin\Debug\net8.0\KDV Tutarını Hesaplayan Program.exe
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\bin\Debug\net8.0\KDV Tutarını Hesaplayan Program.deps.json
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\bin\Debug\net8.0\KDV Tutarını Hesaplayan Program.runtimeconfig.json
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\bin\Debug\net8.0\KDV Tutarını Hesaplayan Program.dll
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\bin\Debug\net8.0\KDV Tutarını Hesaplayan Program.pdb
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.dll
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\refint\KDV Tutarını Hesaplayan Program.dll
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.pdb
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\KDV Tutarını Hesaplayan Program.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\KDV Tutarını Hesaplayan Program\KDV Tutarını Hesaplayan Program\obj\Debug\net8.0\ref\KDV Tutarını Hesaplayan Program.dll

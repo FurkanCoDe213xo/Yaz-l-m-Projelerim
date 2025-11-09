@@ -1,0 +1,8 @@
+merhaba
+BTK
+Akademi
+Bunları
+Eklemek
+İçin
+AppendText
+Kullandım

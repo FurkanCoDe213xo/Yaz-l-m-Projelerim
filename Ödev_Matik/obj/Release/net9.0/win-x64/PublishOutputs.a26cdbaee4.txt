@@ -1,0 +1,5 @@
+D:\Projeler\Genel\Ödev_Matik\bin\Release\net9.0\win-x64\publish\Ödev_Matik.exe
+D:\Projeler\Genel\Ödev_Matik\bin\Release\net9.0\win-x64\publish\Ödev_Matik.dll
+D:\Projeler\Genel\Ödev_Matik\bin\Release\net9.0\win-x64\publish\Ödev_Matik.deps.json
+D:\Projeler\Genel\Ödev_Matik\bin\Release\net9.0\win-x64\publish\Ödev_Matik.runtimeconfig.json
+D:\Projeler\Genel\Ödev_Matik\bin\Release\net9.0\win-x64\publish\Ödev_Matik.pdb

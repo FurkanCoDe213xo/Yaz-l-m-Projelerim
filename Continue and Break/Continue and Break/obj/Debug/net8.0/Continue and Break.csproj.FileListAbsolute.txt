@@ -1,0 +1,14 @@
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\bin\Debug\net8.0\Continue and Break.exe
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\bin\Debug\net8.0\Continue and Break.deps.json
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\bin\Debug\net8.0\Continue and Break.runtimeconfig.json
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\bin\Debug\net8.0\Continue and Break.dll
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\bin\Debug\net8.0\Continue and Break.pdb
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.AssemblyInfoInputs.cache
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.AssemblyInfo.cs
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.csproj.CoreCompileInputs.cache
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.dll
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\refint\Continue and Break.dll
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.pdb
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\Continue and Break.genruntimeconfig.cache
+C:\Users\m_ate\source\repos\Continue and Break\Continue and Break\obj\Debug\net8.0\ref\Continue and Break.dll

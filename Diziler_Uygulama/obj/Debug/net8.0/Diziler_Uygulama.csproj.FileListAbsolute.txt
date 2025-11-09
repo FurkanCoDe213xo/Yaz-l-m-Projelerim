@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Diziler_Uygulama\bin\Debug\net8.0\Diziler_Uygulama.exe
+D:\Projeler\Genel\Diziler_Uygulama\bin\Debug\net8.0\Diziler_Uygulama.deps.json
+D:\Projeler\Genel\Diziler_Uygulama\bin\Debug\net8.0\Diziler_Uygulama.runtimeconfig.json
+D:\Projeler\Genel\Diziler_Uygulama\bin\Debug\net8.0\Diziler_Uygulama.dll
+D:\Projeler\Genel\Diziler_Uygulama\bin\Debug\net8.0\Diziler_Uygulama.pdb
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.AssemblyInfo.cs
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.dll
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\refint\Diziler_Uygulama.dll
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.pdb
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\Diziler_Uygulama.genruntimeconfig.cache
+D:\Projeler\Genel\Diziler_Uygulama\obj\Debug\net8.0\ref\Diziler_Uygulama.dll

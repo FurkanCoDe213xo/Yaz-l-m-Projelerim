@@ -1,0 +1,14 @@
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.AssemblyInfoInputs.cache
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.AssemblyInfo.cs
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.csproj.CoreCompileInputs.cache
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\bin\Debug\net9.0\Dosyalarla-Çalışma.exe
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\bin\Debug\net9.0\Dosyalarla-Çalışma.deps.json
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\bin\Debug\net9.0\Dosyalarla-Çalışma.runtimeconfig.json
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\bin\Debug\net9.0\Dosyalarla-Çalışma.dll
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\bin\Debug\net9.0\Dosyalarla-Çalışma.pdb
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.dll
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\refint\Dosyalarla-Çalışma.dll
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.pdb
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\Dosyalarla-Çalışma.genruntimeconfig.cache
+E:\Yazılım Projelerim\Dosya-Yönetimi\Dosyalarla-Çalışma\obj\Debug\net9.0\ref\Dosyalarla-Çalışma.dll

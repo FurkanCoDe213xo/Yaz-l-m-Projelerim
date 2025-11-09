@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Veri_Tipleri\bin\Debug\net9.0\Veri_Tipleri.exe
+D:\Projeler\Genel\Veri_Tipleri\bin\Debug\net9.0\Veri_Tipleri.deps.json
+D:\Projeler\Genel\Veri_Tipleri\bin\Debug\net9.0\Veri_Tipleri.runtimeconfig.json
+D:\Projeler\Genel\Veri_Tipleri\bin\Debug\net9.0\Veri_Tipleri.dll
+D:\Projeler\Genel\Veri_Tipleri\bin\Debug\net9.0\Veri_Tipleri.pdb
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.AssemblyInfo.cs
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.dll
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\refint\Veri_Tipleri.dll
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.pdb
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\Veri_Tipleri.genruntimeconfig.cache
+D:\Projeler\Genel\Veri_Tipleri\obj\Debug\net9.0\ref\Veri_Tipleri.dll

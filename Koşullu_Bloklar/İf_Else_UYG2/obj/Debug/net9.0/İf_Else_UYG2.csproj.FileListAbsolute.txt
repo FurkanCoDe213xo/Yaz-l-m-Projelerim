@@ -1,0 +1,14 @@
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\bin\Debug\net9.0\İf_Else_UYG2.exe
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\bin\Debug\net9.0\İf_Else_UYG2.deps.json
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\bin\Debug\net9.0\İf_Else_UYG2.runtimeconfig.json
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\bin\Debug\net9.0\İf_Else_UYG2.dll
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\bin\Debug\net9.0\İf_Else_UYG2.pdb
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.AssemblyInfoInputs.cache
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.AssemblyInfo.cs
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.csproj.CoreCompileInputs.cache
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.dll
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\refint\İf_Else_UYG2.dll
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.pdb
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\İf_Else_UYG2.genruntimeconfig.cache
+D:\Projeler\Genel\Koşullu_Bloklar\İf_Else_UYG2\obj\Debug\net9.0\ref\İf_Else_UYG2.dll
